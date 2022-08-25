@@ -1,0 +1,14 @@
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\bin\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.exe
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\bin\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.deps.json
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\bin\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.runtimeconfig.json
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\bin\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.runtimeconfig.dev.json
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\bin\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.dll
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\bin\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.pdb
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\obj\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.csproj.AssemblyReference.cache
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\obj\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\obj\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.AssemblyInfoInputs.cache
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\obj\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.AssemblyInfo.cs
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\obj\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.csproj.CoreCompileInputs.cache
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\obj\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.dll
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\obj\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.pdb
+C:\Users\017586631\source\repos\SomaDeImparesConsecutivos\obj\Debug\netcoreapp3.1\SomaDeImparesConsecutivos.genruntimeconfig.cache
